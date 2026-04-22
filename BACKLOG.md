@@ -14,9 +14,9 @@ História em quadrinhos - "Projeto Ômega"
 
 ## Sprint Backlog
 
-- [ ] item 1: Definir identidade da HQ.
+- [x] item 1: Definir identidade da HQ.
     - tarefa: (1) Definir tema da HQ; (2) Definir nome da HQ; (3) Definir quantidade e nome dos personagens; (4) Definir ambientação da HQ.
-- [ ] item 2: Criar timeline da HQ.
+- [x] item 2: Criar timeline da HQ.
     - tarefa: (1) definir conteúdo dos quadrinhos; (2) definir ambientação dos quadrinhos; (3) definir diálogos contidos nos quadrinhos.
 - [ ] item 3: Implementar prompts e descrição de cenário e diálogos.
     - tarefa: (1) construir ; (2) ; ()
@@ -25,14 +25,15 @@ História em quadrinhos - "Projeto Ômega"
 - [ ] item 5: Polir os prompts de acordo com os resultados alcançados em item 4.
     - tarefa: (1) construir ; (2) ; ()
 
-- Status: 
+- Status: Conclusão das histórias bases, com rascunhos sobre quadrinhos iniciais concluídos. Testes de qualidade de saída da VLM e desenvolvimento de prompts necessários para finalizar a sprint.
 
 ### Sprint 1 - de 22 a 27 de abril de 2026
-- Descrição: 
+- Descrição: Criar a identidade da HQ, junto ao ambiente, tema e personagens que a compõe. Criar, também, storyboard dos 10 quadrinhos iniciais do arco, assim como interações entre personagens, diálogos e descrições de ambientes de cada quadrinho. Por fim, juntar as informações para rollout de testes para verificar qualidade de saída de imagens via VLM (provavelmente Nano Banana).
 
 - Status: Descrição inicial dos primeiros 10 quadrinhos concluída.
     - Resultado:
         "Projeto Ômega — Rascunho Inicial (10 quadrinhos)
+---
 
             Quadrinho 1
             Imagem da nave Harpia vagando no espaço profundo.
