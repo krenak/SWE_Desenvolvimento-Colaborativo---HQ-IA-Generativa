@@ -2,9 +2,9 @@
 
 (Descrição da atividade) Os alunos deverão se dividir em equipes 
 (de 3 a 5 integrantes) e deverão criar uma história em quadrinhos utilizando
-uma ferramenta de IA generativa (como ChatGPT, Gemini, DALL-E ou outras).
-As equipes devem seguir os princípios do SCRUM e Kanban ao longo do processo,
-utilizando o GitHub para gerenciar o conteúdo do projeto.
+uma ferramenta de IA generativa. As equipes devem seguir os princípios do SCRUM
+e Kanban ao longo do processo, utilizando o GitHub para gerenciar o conteúdo
+do projeto.
 
 ## Objetivos da atividade
 
@@ -22,7 +22,7 @@ Desenvolvimento de HQ utilizando ferramenta de versionamento (git) e hospedagem 
 
 ### Objetivos
 Apresentar uma história fictícia (sci-fi) por meio de história em quadrinhos
-utilizando versionamento e LLM generativos para criar as imagens/quadrinhos
+utilizando versionamento e VLM para criar as imagens/quadrinhos
 do tema proposto.
 
 ### Estrutura inicial da HQ
