@@ -13,12 +13,12 @@ utilizando o GitHub para gerenciar o conteúdo do projeto.
 conteúdo e arte.
 - Promover a prática de desenvolvimento iterativo e incremental com GitHub.
 
-### Nome dos integrates
+### Nome dos integrantes
 - Anderson Fraga
 - João Vitor Carlini
 
 ### Descrição do projeto
-
+Desenvolvimento de HQ utilizando ferramenta de versionamento (git) e hospedagem em nuvem (GitHub), com o gerenciamento utilizando SCRUM e o produto final gerado via VLM.
 
 ### Objetivos
 Apresentar uma história fictícia (sci-fi) por meio de história em quadrinhos
