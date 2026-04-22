@@ -19,11 +19,11 @@ História em quadrinhos - "Projeto Ômega"
 - [x] item 2: Criar timeline da HQ.
     - tarefa: (1) definir conteúdo dos quadrinhos; (2) definir ambientação dos quadrinhos; (3) definir diálogos contidos nos quadrinhos.
 - [ ] item 3: Implementar prompts e descrição de cenário e diálogos.
-    - tarefa: (1) construir ; (2) ; ()
+    - tarefa: (1) construir prompts baseados na produção textual relacionada; (2) buscar referências de imagem e texturas para embasar render da VLM.
 - [ ] item 4: Testar conteúdo em geração de quadrinhos via LLM.
-    - tarefa: (1) construir ; (2) ; ()
+    - tarefa: (1) aplicar prompts produzidos ; (2) verificar qualidade de saída de imagens e aplicação dos comandos definidos em prompt.
 - [ ] item 5: Polir os prompts de acordo com os resultados alcançados em item 4.
-    - tarefa: (1) construir ; (2) ; ()
+    - tarefa: (1) reescrever prompts; (2) buscar novas referências para melhoramento de renderização por parte da VLM;
 
 - Status: Conclusão das histórias bases, com rascunhos sobre quadrinhos iniciais concluídos. Testes de qualidade de saída da VLM e desenvolvimento de prompts necessários para finalizar a sprint.
 
