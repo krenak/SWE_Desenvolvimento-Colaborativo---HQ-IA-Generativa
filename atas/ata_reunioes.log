@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.24)  25 APR 2026 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.3.24)  25 APR 2026 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -748,7 +748,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count361
 )
-No file ata_reunioes.aux.
+(./ata_reunioes.aux)
 \openout1 = `ata_reunioes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -769,6 +769,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -826,6 +827,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 27.
+
+(./ata_reunioes.out) (./ata_reunioes.out)
 \@outlinefile=\write5
 \openout5 = `ata_reunioes.out'.
 
@@ -885,40 +888,63 @@ LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 4
 0.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
-) [1
+)
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.43                     \hline
+                               
+? 
+! Misplaced alignment tab character &.
+l.44                     registro 1&
+                                     registro 2 & registro 3 \\
+? 
+! Misplaced alignment tab character &.
+l.44                     registro 1& registro 2 &
+                                                  registro 3 \\
+? 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.45                     \hline
+                               
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-
 ts1.enc}]
-(./ata_reunioes.aux)
+runsystem(latexminted cleantemp  --timestamp 20260425172007 7CDFD599FA8C6E22126
+F60CCB556482A)...executed safely (allowed).
+
+ (./ata_reunioes.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `ata_reunioes.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ata_reunioes.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `ata_reunioes.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 27302 strings out of 469515
- 558162 string characters out of 5470807
- 1081877 words of memory out of 5000000
- 55514 multiletter control sequences out of 15000+600000
- 641751 words of font info for 67 fonts, out of 8000000 for 9000
+ 27314 strings out of 469515
+ 558401 string characters out of 5470807
+ 1083962 words of memory out of 5000000
+ 55519 multiletter control sequences out of 15000+600000
+ 644651 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,5n,104p,523b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf
--dist/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on ata_reunioes.pdf (1 page, 115356 bytes).
+-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/tex-gyre/qplri.pfb>
+Output written on ata_reunioes.pdf (1 page, 156035 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
