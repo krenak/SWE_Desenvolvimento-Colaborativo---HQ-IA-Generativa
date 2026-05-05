@@ -12,5 +12,5 @@ João Vitor N. Carlini (20242TSIS1094)
 
 Conteúdo desenvolvido na última semana: https://github.com/krenak/SWE_Desenvolvimento-Colaborativo---HQ-IA-Generativa/blob/main/BACKLOG.md
 
-Descrição da sprint atual: Nesta Sprint, foram roterizadas as cenas para os 12 quadrinhos iniciais. Foram separados, também, as caracterísitcas de cada cena presente nos quadrinhos, assim como a temática, nome da HQ e do grupo e pequena sinópse da história.
-Desenvolvemos 12 quadrinhos iniciais que contam um pouco da história e passam a ambientação que optamos, revisando as ideias e gerando as imagens.
+Descrição da sprint atual: Nesta Sprint, foram roterizadas as cenas de continuidade para os próximos 20 quadrinhos. Foram separados, também, as caracterísitcas de cada cena presente nos quadrinhos, assim como o desenvolvimento da trama.
+Desenvolvemos 20 quadrinhos de continuidade que mostram um pouco mais da exploração e receio dos tripulantes com organismos desconhecidos, detalhando as ideias e gerando/editando as imagens.
